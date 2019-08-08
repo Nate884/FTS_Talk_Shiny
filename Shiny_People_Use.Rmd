@@ -129,7 +129,7 @@ background-image: url(https://media.giphy.com/media/msKNSs8rmJ5m/giphy.gif)
 # Into this!
 ---
 #Questions/Comments?
-
+![](question_pie_chart.png)
 
 
 
