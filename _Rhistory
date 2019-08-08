@@ -1,0 +1,19 @@
+xaringan::inf_mr()
+options(htmltools.dir.version = FALSE)
+library(xaringanthemer)
+mono_accent(
+base_color         = "#F48024",
+header_font_google = google_font("IBM Plex Sans", "700"),
+text_font_google   = google_font("IBM Plex Sans Condensed"),
+code_font_google   = google_font("IBM Plex Mono")
+)
+xarnigan::inf_mr()
+xaringan::inf_mr()
+xaringan::inf_mr()
+?download.file
+?utils
+download.file(
+"https://raw.githubusercontent.com/daneden/animate.css/master/animate.css",
+"animate.css"
+)
+xaringan::inf_mr()
