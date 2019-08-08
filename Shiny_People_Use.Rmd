@@ -54,7 +54,7 @@ background-position: 50% 80%
 ![](email2019.png)
 ---
 ##Where Did I Go Wrong?
-- I listened to my <span style="color:yellow">~~idiot~~</span> users
+- I believed my <span style="color:yellow">~~idiot~~</span> users
 
 --
 - Specifically I failed to do the following:

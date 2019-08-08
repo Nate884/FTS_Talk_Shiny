@@ -1,60 +1,0 @@
-[0m[0K]0;:/c/Users/nmockler/Documents/Shiny_People_Use[?25l
-[0;32mnmockler@US-N085982 [0;35m [0;33m~/Documents/Shiny_People_Use[0m[0K
-$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[?25l
-[0K[?25hEMAIL2017.png        Shiny_In_Action.gif     _DS_Store    application_metrics.png  libs[0K[?25l
-IMG_1860.JPG         Shiny_People_Use.Rmd    _Rhistory    backup_allmodules.R      xaringan-themer.css[0K
-Shiny_Contract.png   Shiny_People_Use.Rproj  _gitignore   creed.png[0K
-Shiny_Dashboard.png  Shiny_People_Use.html   animate.css  email2019.png[0K
-[0K[?25h[?25l
-[0;32mnmockler@US-N085982 [0;35m [0;33m~/Documents/Shiny_People_Use[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git r[0K[?25hem[0Ko[0Kte[0K[14G[?25l$ git remote a[0K[?25hd[0Kd[0K[18G[?25l$ git remote add o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[?25l$ git remote add origi[0K[?25h[?25l$ git remote add orig[0K[?25h[?25l$ git remote add ori[0K[?25h[?25l$ git remote add or[0K[?25h[?25l$ git remote add o[0K[?25h[?25l$ git remote add[0K[?25h[?25l$ git remote ad[0K[?25h[?25l$ git remote a[0K[?25h[?25l$ git remote[0K[14G[?25h[13G[?25l$ git remot[0K[?25h[?25l$ git remo[0K[?25h[?25l$ git rem[0K[?25h[?25l$ git re[0K[?25h[?25l$ git r[0K[?25h[?25l$ git[0K[7G[?25h[6G[?25l$ g[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25ht[0K[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[14G[?25l$ git remote a[0K[?25hd[0Kd[0K[18G[?25l$ git remote add o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[25G[?25l$ git remote add origin h[0K[?25ht[0Kt[0Kp[0Ks[0K:[0K/[0K/[0Kg[0Ki[0Kt[0Kh[0Ku[0Kib[0K[?25l$ git remote add origin https://githui[0K[?25h[?25l$ git remote add origin https://githu[0K[?25hb[0K.[0Kc[0Ko[0Km[0K/[0KN[0Ka[0Kt[0Ke[0K8[0K8[0K4[0K/[0KF[0KT[0KS[0K_[0KT[0Ka[0Kl[0Kk[0K_[0KS[0Kh[0Ki[0Kn[0Ky[0K.[0Kg[0Ki[0Kt[0K[?25l
-[0K[?25hfatal: not a git repository (or any of the parent directories): .git[0K[?25l
-[0K[?25h[?25l
-[0;32mnmockler@US-N085982 [0;35m [0;33m~/Documents/Shiny_People_Use[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git i[0K[?25hn[0Ki[0Kt[0K[?25l
-[0K[?25hReinitialized existing Git repository in C:/Users/nmockler/Documents/Shiny_People_Use/.git/[0K[?25l
-[0K[?25h[?25l
-[0;32mnmockler@US-N085982 [0;35m [0;33m~/Documents/Shiny_People_Use[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git init[0K[?25h[?25l$ git remote add origin https://github.com/Nate884/FTS_Talk_Shiny.git[0K[?25h[?25l
-[0K[?25h[?25l
-[0;32mnmockler@US-N085982 [0;35m [0;33m~/Documents/Shiny_People_Use[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git remote add origin https://github.com/Nate884/FTS_Talk_Shiny.git[0K[?25h[?25l$ git init[0K[?25h[10G[?25l$ git remote add origin https://github.com/Nate884/FTS_Talk_Shiny.git[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push -[0K[?25hu[0K[15G[?25l$ git push -u o[0K[?25hi[0Kr[0Ki[0Kg[0Kn[0K[?25l$ git push -u oirig[0K[?25h[?25l$ git push -u oiri[0K[?25h[?25l$ git push -u oir[0K[?25h[?25l$ git push -u oi[0K[?25h[?25l$ git push -u o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K m[0Kas[0Kt[0Ke[0Kr[0K[?25l
-[0K[?25herror: src refspec master does not match any[0K[?25l
-[0;31merror: failed to push some refs to 'https://github.com/Nate884/FTS_Talk_Shiny.git'[0m[0K
-[0K[?25h[?25l
-[0;32mnmockler@US-N085982 [0;35m [0;33m~/Documents/Shiny_People_Use[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l
-[0K[?25h[?25l
-[0;32mnmockler@US-N085982 [0;35m [0;33m~/Documents/Shiny_People_Use[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m '[0K[?25hi[0Kn[0K[?25l$ git commit -m 'i[0K[?25h[?25l$ git commit -m '[0K[?25h[?25l$ git commit -m[0K[17G[?25h[?25l$ git commit -m "[0K[?25hi[0Kn[0Ki[0Kt[0Kl[0Ka[0K[?25l$ git commit -m "initl[0K[?25h[?25l$ git commit -m "init[0K[?25ha[0Kl[0K[25G[?25l$ git commit -m "inital c[0K[?25ho[0Km[0Km[0K[?25l$ git commit -m "inital com[0K[?25h[?25l$ git commit -m "inital co[0K[?25h[?25l$ git commit -m "inital c[0K[?25h[?25l$ git commit -m "inital[0K[25G[?25h[24G[?25l$ git commit -m "inita[0K[?25h[?25l$ git commit -m "init[0K[?25h[?25l$ git commit -m "ini[0K[?25ht[0Ki[0Ka[0Kl[0K[26G[?25l$ git commit -m "initial c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K"[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-[0K
-Initial commit[0K
-[0K
-Untracked files:[0K
-        [0;31m.Rhistory[0m[0K
-        [0;31m.Rproj.user/[0m[0K
-        [0;31mEMAIL2017.png[0m[0K
-        [0;31mIMG_1860.JPG[0m[0K
-        [0;31mShiny_Contract.png[0m[0K
-        [0;31mShiny_Dashboard.png[0m[0K
-        [0;31mShiny_In_Action.gif[0m[0K
-        [0;31mShiny_People_Use.Rmd[0m[0K
-        [0;31mShiny_People_Use.Rproj[0m[0K
-        [0;31mShiny_People_Use.html[0m[0K
-        [0;31m_DS_Store[0m[0K
-        [0;31m_Rhistory[0m[0K
-        [0;31m_gitignore[0m[0K
-        [0;31manimate.css[0m[0K
-        [0;31mapplication_metrics.png[0m[0K
-        [0;31mbackup_allmodules.R[0m[0K
-        [0;31mcreed.png[0m[0K
-        [0;31memail2019.png[0m[0K
-        [0;31mlibs/[0m[0K
-        [0;31mxaringan-themer.css[0m[0K
-[0K
-nothing added to commit but untracked files present[0K
-[0K[?25h[?25l
-[0;32mnmockler@US-N085982 [0;35m [0;33m~/Documents/Shiny_People_Use[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
-[0K[?25h
